@@ -24,6 +24,13 @@ text.toLocalUpperCase()   vd : abc -> ABC
 // Viet thuong toan bo chu cai
 text.toLocalLowerCase()
 
+//Conver ki tu ve so
+->>> let e = Number('5')
+Ket qua tra ve 5, la dang ki tu so number!
+
+Hoac la con vert kieu : VD d = "5"
+let = +d; ->> Khi do d se thanh kieu number
+
 
 
 
