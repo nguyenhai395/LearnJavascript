@@ -1,0 +1,29 @@
+Muc tieu trong tuan nay, hoc xong Javascript!!!!
+
+
+/// Khai bao bien
+let a =1
+let b = 2.2
+let c = "xin chao"
+
+
+///In ra man hinh
+console.log("  ");
+
+/// Chieu dai cua chuoi let text= "ABCXYZ"
+text.length
+
+///Khi khai bao chuoi "" trong tieng anh
+Dung dau pactick '' thi ben trong viet gi cung ok!
+
+Part 9; cac method dc su dung voi String
+
+// Viet hoa toan bo chu cai
+text.toLocalUpperCase()   vd : abc -> ABC
+
+// Viet thuong toan bo chu cai
+text.toLocalLowerCase()
+
+
+
+
