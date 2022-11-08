@@ -1,10 +1,4 @@
-//alert(" WellCome to Page ")
-console.log(" HelloWorld".toLocaleUpperCase());
-let a=1;
-let b=2.1;
-let c="ABCXYZ"
-console.log("Gia tri cua a la ",a)
-console.log("Gia tri cua b la ",b)
-console.log("Chuoi string la ", c.toLocaleLowerCase())
-console.log("Do dai cua chuoi ",c.length)
-console.log("Gia tri cua a+b la ", a+b);
+let a= 5;
+let b=10;
+console.log(` Hello Word with HarryNguyen `)
+console.log(` So twenty la ${a*4} not ${a+b}`)

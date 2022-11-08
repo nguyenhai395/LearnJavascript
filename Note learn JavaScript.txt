@@ -22,7 +22,7 @@ Part 9; cac method dc su dung voi String
 text.toLocalUpperCase()   vd : abc -> ABC
 
 // Viet thuong toan bo chu cai
-text.toLocalLowerCase()
+text.toLocalLowerCase()Fi
 
 //Conver ki tu ve so
 ->>> let e = Number('5')
@@ -30,6 +30,20 @@ Ket qua tra ve 5, la dang ki tu so number!
 
 Hoac la con vert kieu : VD d = "5"
 let = +d; ->> Khi do d se thanh kieu number
+
+
+11/// TemplateString ( Dung de noi chuoi)
+
+
+Them vao 1 gia tri template, ta chi can ${} la xong
+Luu y dau pactick `` chu khong phai '' Khac nhau do 
+
+8////
+
+
+
+
+
 
 
 
