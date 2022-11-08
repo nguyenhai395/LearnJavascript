@@ -48,6 +48,16 @@ Ly thuyet
 Kieu let a={}  ->> a la kieu du lieu Object
 
 
+VD let obj={
+name :`Nguyen`
+address:`Ha Noi`
+}
+
+let b=name;
+
+==>> cach su dung bien
+Cach 1 : obj.name =
+Cach 2: obj[`b`]=
 
 
 

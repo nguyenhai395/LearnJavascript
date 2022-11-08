@@ -1,16 +1,17 @@
-// let a= 5;
-// let b=10;
-// console.log(` Hello Word with HarryNguyen `)
-// console.log(` So twenty la ${a*4} not ${a+b}`)
-// Phan nay la phan Template. viet ngan gon trong code
+console.log(`WellCome to Learn Part 7 : Template`)
+let a=5
+let b=2
+console.log(` Ten is ${a*b} and is not ${a+b}` )
 
-//Object : Muc 8
-
-// key : value, key2 : value2
-console.log(` Hello with learn Part 8`)
-let a= {
-    name: `harryNguyen`,
-    address:`Bac Giang`
+console.log(`--------------------------------`)
+console.log(`WellCome to Learn Part 8: Object`)
+let info ={
+  
+    adress:'Viet Nam',
+    email:'nguyenhhai86@gmail.com'
 }
-let b = `Harry`
-console.log(` Type of a : `, typeof a,`type of b : `, typeof b);
+
+
+console.log("What is your name ?",'My name is ',info[`name`])
+console.log("Where are you from?", ' Im from ', info.adress)
+console.log("And my email is ", info.email)
