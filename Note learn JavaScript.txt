@@ -39,6 +39,17 @@ Them vao 1 gia tri template, ta chi can ${} la xong
 Luu y dau pactick `` chu khong phai '' Khac nhau do 
 
 8////
+Object : Lap trinh huong doi tuong la Viec mo phong tu doi thuc, con cho con meo,
+con nguoi...Mo phong hanh dong ngoai doi thuc vao trong code
+-->>> Cac hanh dong don gian la cac function, or ham thoi
+->> Anh xa tu doi song vao trong code. 
+Ly thuyet
+
+Kieu let a={}  ->> a la kieu du lieu Object
+
+
+
+
 
 
 
