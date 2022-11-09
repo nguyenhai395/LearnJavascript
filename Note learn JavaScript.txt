@@ -59,7 +59,14 @@ let b=name;
 Cach 1 : obj.name =
 Cach 2: obj[`b`]=
 
+-------------------------------------------
 
+//Video 9:
+let b = [] // Khai bao mang rong b
+          // Ben trong luu so, string, object,....
+VD: let b =["MU", "Liver","Chealse"]
+->>>   Muon goi bien ra thi chi can
+ ->>>  b[0], b[1], b[2] giong het nhu Code C
 
 
 

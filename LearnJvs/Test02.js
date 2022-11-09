@@ -15,3 +15,9 @@ let inf={
 console.log(`My name is `, inf.name)
 console.log(`My address is `,inf.address)
 console.log(`My email is `, inf.email)
+
+console.log(` Part 9 Array `)
+let x =["MU","Liver", "Chealsea"]
+console.log(`type of x`, typeof x, x)
+console.log(`First item IS `, x[0])
+console.log(`Second item IS `, x[1])
