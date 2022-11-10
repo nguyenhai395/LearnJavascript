@@ -17,3 +17,14 @@ console.log("Gia tri cua i la ",i)
 
 let x=[1, 2, 3, 4, 5, 6]
 console.log(" Gia tri cua mang X[1]", x[2])
+
+console.log("To learn While do")
+let y=1;
+let flash = false
+while(!flash){
+    console.log("Gia tri cua y ", y)
+    y++;
+    if(y===10) break;
+}
+
+// OK. den day la hoc xong phan While

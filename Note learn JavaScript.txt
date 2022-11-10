@@ -68,7 +68,16 @@ VD: let b =["MU", "Liver","Chealse"]
 ->>>   Muon goi bien ra thi chi can
  ->>>  b[0], b[1], b[2] giong het nhu Code C
 
+// Phan while
+While( dieu kien)
+{
+Chuong trinh thuc hien
+}
 
+VD: while(true)
+{
+    i++;
+}
 
 
 
