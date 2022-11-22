@@ -37,3 +37,5 @@
 //-----------------------------------------------------------
 
 console.log("Well come to NguyenHai")
+for (let i=0;i<10; i++)
+{console.log (" Gia tri cua i la ",i)}
