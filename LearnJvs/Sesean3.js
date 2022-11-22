@@ -39,3 +39,8 @@
 console.log("Well come to NguyenHai")
 for (let i=0;i<10; i++)
 {console.log (" Gia tri cua i la ",i)}
+
+console.log(new Date().getHours());
+if (new Date().getHours< 18){
+    console.log(" OK")
+}
