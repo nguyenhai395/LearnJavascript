@@ -29,8 +29,11 @@
 
 // OK. den day la hoc xong phan While
 
-console.log(" To learn Function")
-function sum( a,b ){
-    return a+b;
-}
-console.log(" Tinh tong hai so 2 va 5 se la ", sum(2,5))
+// console.log(" To learn Function")
+// function sum( a,b ){
+//     return a+b;
+// }
+// console.log(" Tinh tong hai so 2 va 5 se la ", sum(2,5))
+//-----------------------------------------------------------
+
+console.log("Well come to NguyenHai")
