@@ -41,6 +41,8 @@ for (let i=0;i<10; i++)
 {console.log (" Gia tri cua i la ",i)}
 
 console.log(new Date().getHours());
-if (new Date().getHours< 18){
-    console.log(" OK")
+if(new Date().getHours() < 18 ){
+    console.log(" Good Day")
 }
+else
+console.log("Failse")
